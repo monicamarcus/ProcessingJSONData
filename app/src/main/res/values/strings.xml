@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Processing JSON Data</string>
+    <string name="title">Current weather conditions</string>
+    <string name="where">Enter Location</string>
+    <string name="getweather">Display Weather broadcast</string>
+    <string name="clear">Clear all</string>
+</resources>
